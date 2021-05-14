@@ -300,85 +300,85 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2: @ 81F7A16
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere: @ 81F7A1C
-	.string "MOM: See, {PLAYER}?\n"
+	.string "TEACHER: See?\n"
 	.string "Isn't it nice in here, too?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock: @ 81F7A46
 	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
+	.string "of moving you in and will clean up after.\l"
 	.string "This is so convenient!\p"
 	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "Go check it out!\p"
+	.string "Don't forget to set the time\n"
+	.string "on your clock.$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom: @ 81F7B24
-	.string "MOM: Well, {PLAYER}?\p"
+	.string "TEACHER: Well, {PLAYER}?\p"
 	.string "Aren't you interested in seeing your\n"
 	.string "very own room?$"
 
 PlayersHouse_1F_Text_GoSetTheClock: @ 81F7B67
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "TEACHER: {PLAYER}.\p"
+	.string "Go set the clock in your room.$"
 
 PlayersHouse_1F_Text_OhComeQuickly: @ 81F7B96
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
+	.string "TEACHER: Oh! {PLAYER}, {PLAYER}!\n"
 	.string "Quick! Come quickly!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn: @ 81F7BBC
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "TEACHER: Look! It's PETALBURG GYM!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim: @ 81F7BF1
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
+	.string "TEACHER: Oh… It's over.\p"
+	.string "I think your parents were on,\n"
+	.string "but we missed them.\n"
 	.string "Too bad.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor: @ 81F7C35
 	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
+	.string "One of the professor lives in here.\p"
+	.string "PROFESSOR BIRCH is his name.\p"
+	.string "He lives right next door,\n"
+	.string "and works in DR.REYNOLD's LAB\l"
 	.string "go over and introduce yourself.$"
 
 PlayersHouse_1F_Text_SeeYouHoney: @ 81F7CC3
-	.string "MOM: See you, honey!$"
+	.string "TEACHER: See you, {PLAYER}!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch: @ 81F7CD8
-	.string "MOM: Did you introduce yourself to\n"
-	.string "PROF. BIRCH?$"
+	.string "TEACHER: Did you introduce yourself to\n"
+	.string "PROFESSOR BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit: @ 81F7D08
-	.string "MOM: How are you doing, {PLAYER}?\n"
+	.string "TEACHER: How are you doing, {PLAYER}?\n"
 	.string "You look a little tired.\p"
 	.string "I think you should rest a bit.$"
 
 PlayersHouse_1F_Text_TakeCareHoney: @ 81F7D5C
-	.string "MOM: Take care, honey!$"
+	.string "TEACHER: Take care, {PLAYER}!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom: @ 81F7D73
-	.string "MOM: Oh? Did DAD give you that BADGE?\p"
-	.string "Then here's something from your MOM!$"
+	.string "TEACHER: Oh? Did your parents give you that BADGE?\p"
+	.string "Then here's something from your TEACHER!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard: @ 81F7DBE
 	.string "Don't push yourself too hard, dear.\n"
 	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Go for it!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav: @ 81F7E0E
-	.string "MOM: What is that, honey? A POKéNAV?\n"
+	.string "TEACHER: What is that? A POKéNAV?\n"
 	.string "Someone from DEVON gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
+	.string "Well, how about registering\n"
+	.string "your TEACHER?\p"
 	.string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom: @ 81F7E89
-	.string "Registered MOM\n"
+	.string "Registered!\n"
 	.string "in the POKéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1: @ 81F7EA8
-	.string "Fugiiiiih!$"
+	.string "Bruh!$"
 
 PlayersHouse_1F_Text_Vigoroth2: @ 81F7EB3
 	.string "Huggoh, uggo uggo…$"
@@ -419,17 +419,17 @@ PlayersHouse_1F_Text_PortsInSlateportLilycove: @ 81F80FE
 
 PlayersHouse_1F_Text_BetterGetBackToGym: @ 81F815B
 	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
+	.string "TEACHER, thanks for looking after the house\n"
 	.string "while I'm away.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger: @ 81F81B9
-	.string "MOM: That DAD of yours…\p"
+	.string "TEACHER: That DAD of yours…\p"
 	.string "He comes home for the first time in a\n"
 	.string "while, but all he talks about is POKéMON.\p"
 	.string "He should relax and stay a little longer.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory: @ 81F824B
-	.string "MOM: Is that a breaking news story?$"
+	.string "TEACHER: Is that a breaking news story?$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash: @ 81F826F
 	.string "We bring you this emergency\n"
@@ -443,10 +443,10 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash: @ 81F826F
 	.string "movie program.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay: @ 81F8351
-	.string "MOM: {PLAYER}, did you catch that?\p"
+	.string "TEACHER: {PLAYER}, did you catch that?\p"
 	.string "What color did the announcer say\n"
 	.string "that POKéMON was?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon: @ 81F83A1
-	.string "MOM: Well, isn't that something!\n"
+	.string "TEACHER: Well, isn't that something!\n"
 	.string "There are still unknown POKéMON.$"

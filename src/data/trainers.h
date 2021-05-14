@@ -11269,6 +11269,21 @@ const struct Trainer gTrainers[] = {
         .party = {.ItemCustomMoves = sParty_Steven},
     },
 
+    [TRAINER_DRREYNOLDS] =
+    {
+        .partyFlags = F_TRAINER_PARTY_HELD_ITEM | F_TRAINER_PARTY_CUSTOM_MOVESET,
+        .trainerClass = TRAINER_CLASS_DRREYNOLDS,
+        .encounterMusic_gender = TRAINER_ENCOUNTER_MUSIC_MALE,
+        .trainerPic = TRAINER_PIC_DRREYNOLDS,
+        .trainerName = _("DRREYNOLDS"),
+        .items = {ITEM_FULL_RESTORE, ITEM_FULL_RESTORE, ITEM_FULL_RESTORE, ITEM_FULL_RESTORE},
+        .doubleBattle = FALSE,
+        .aiFlags = AI_SCRIPT_CHECK_BAD_MOVE | AI_SCRIPT_TRY_TO_FAINT | AI_SCRIPT_CHECK_VIABILITY,
+        .partySize = ARRAY_COUNT(sParty_Drreynolds),
+        .party = {.ItemCustomMoves = sParty_Drreynolds},
+    },
+
+
     [TRAINER_ANABEL] =
     {
         .partyFlags = 0,

@@ -349,7 +349,7 @@ RivalsHouse_1F_Text_LikeChildLikeFather: @ 81F8CA5
 	.string "Like child, like father.\p"
 	.string "My husband is as wild about POKéMON\n"
 	.string "as our child.\p"
-	.string "If he's not at his LAB, he's likely\n"
+	.string "If he's not at the LAB, he's likely\n"
 	.string "scrabbling about in grassy places.$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit: @ 81F8D37
@@ -385,7 +385,7 @@ RivalsHouse_1F_Text_MayWhoAreYou: @ 81F8EC6
 	.string "I have this dream of becoming friends\l"
 	.string "with POKéMON all over the world.\p"
 	.string "I… I heard about you, {PLAYER}{KUN}, from\n"
-	.string "my dad, PROF. BIRCH.\p"
+	.string "DR. REYNOLDS. He really hates you.\p"
 	.string "I was hoping that you would be nice,\n"
 	.string "{PLAYER}{KUN}, and that we could be friends.\p"
 	.string "Oh, this is silly, isn't it?\n"
@@ -403,7 +403,7 @@ RivalsHouse_1F_Text_BrendanWhoAreYou: @ 81F90B4
 	.string "Oh, you're {PLAYER}, aren't you?\n"
 	.string "Moved in next door, right?\p"
 	.string "I didn't know that you're a girl.\p"
-	.string "Dad, PROF. BIRCH, said that our new\n"
+	.string "Dad, DR. REYNOLDS, said that our new\n"
 	.string "next-door neighbor is a GYM LEADER's\l"
 	.string "kid, so I assumed you'd be a guy.\p"
 	.string "My name's BRENDAN.\n"

@@ -960,29 +960,30 @@ LittlerootTown_EventScript_GiveRunningShoes:: @ 81E8693
 	delay 30
 	return
 
+
+
 LittlerootTown_Text_OurNewHomeLetsGoInside: @ 81E86BC
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
+	.string "TEACHER: {PLAYER}! Welcome to CRANBROOK!\p"
+	.string "It must be tiring riding with your things\n"
 	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
+	.string "Well, this is CRANBROOK.\p"
 	.string "How do you like it?\n"
-	.string "This is our new home!\p"
+	.string "This is your new home!\p"
 	.string "It has a quaint feel, but it seems to be\n"
 	.string "an easy place to live, don't you think?\p"
 	.string "And, you get your own room, {PLAYER}!\n"
 	.string "Let's go inside.$"
 
 LittlerootTown_Text_WaitPlayer: @ 81E87E1
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "TEACHER: Wait, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes: @ 81E87F0
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
+	.string "TEACHER: {PLAYER}! Did you\n"
+	.string "introduce yourself to PROFESSOR BIRCH?\p"
 	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
+	.string "You got it from PROFESSOR BIRCH. How nice!\p"
 	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
+	.string "Here, {PLAYER}! If you're going out on an\n"
 	.string "adventure, wear these RUNNING SHOES.\p"
 	.string "They'll put a zip in your step!$"
 
@@ -991,7 +992,7 @@ LittlerootTown_Text_SwitchShoesWithRunningShoes: @ 81E8925
 	.string "RUNNING SHOES.$"
 
 LittlerootTown_Text_ExplainRunningShoes: @ 81E894F
-	.string "MOM: {PLAYER}, those shoes came with\n"
+	.string "TEACHER: {PLAYER}, those shoes came with\n"
 	.string "instructions.\p"
 	.string "“Press the B Button while wearing these\n"
 	.string "RUNNING SHOES to run extra-fast!\p"
@@ -1002,11 +1003,10 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens: @ 81E8A03
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
+	.string "POKéMON now…\p"
 	.string "…But please be careful.\n"
 	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Go on, go get them, {PLAYER}!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems: @ 81E8ACF
 	.string "If you use a PC, you can store items\n"
@@ -1014,10 +1014,10 @@ LittlerootTown_Text_CanUsePCToStoreItems: @ 81E8ACF
 	.string "The power of science is staggering!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab: @ 81E8B25
-	.string "PROF. BIRCH spends days in his LAB\n"
+	.string "PROFESSOR BIRCH spends days in his LAB\n"
 	.string "studying, then he'll suddenly go out in\l"
 	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
+	.string "When does PROFESSOR BIRCH spend time\n"
 	.string "at home?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut: @ 81E8BB8
@@ -1039,7 +1039,7 @@ LittlerootTown_Text_CanYouGoSeeWhatsHappening: @ 81E8C3A
 	.string "for me?$"
 
 LittlerootTown_Text_YouSavedBirch: @ 81E8CE3
-	.string "You saved PROF. BIRCH!\n"
+	.string "You saved PROFESSOR BIRCH!\n"
 	.string "I'm so glad!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon: @ 81E8D07
@@ -1051,16 +1051,16 @@ LittlerootTown_Text_TownSign: @ 81E8D32
 	.string "“A town that can't be shaded any hue.”$"
 
 LittlerootTown_Text_ProfBirchsLab: @ 81E8D69
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "DR. REYNOLD'S POKéMON LAB$"
 
 LittlerootTown_Text_PlayersHouse: @ 81E8D83
 	.string "{PLAYER}'s HOUSE$"
 
 LittlerootTown_Text_ProfBirchsHouse: @ 81E8D8E
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "PROFESSOR BIRCH'S HOUSE$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab: @ 81E8DA2
-	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"
+	.string "PROFESSOR  BIRCH: Well, well, {PLAYER}{KUN}!\n"
 	.string "That was good work out there!\p"
 	.string "I knew there was something special\n"
 	.string "about you when I first saw you,\l"
@@ -1069,4 +1069,4 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab: @ 81E8DA2
 	.string "I gave you?\p"
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
-
+	

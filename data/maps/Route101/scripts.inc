@@ -284,7 +284,7 @@ Route101_Text_YouSavedMe: @ 81EBF12
 	.string "Oh?\p"
 	.string "Hi, you're {PLAYER}{KUN}!\p"
 	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "by the POKéMON LAB later, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter: @ 81EBFDD
 	.string "If POKéMON get tired, take them to\n"

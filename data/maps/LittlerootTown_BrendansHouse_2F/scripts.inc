@@ -291,7 +291,7 @@ PlayersHouse_2F_Text_ClockIsStopped: @ 81F8668
 	.string "Better set it and start it!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom: @ 81F869A
-	.string "MOM: {PLAYER}, how do you like your\n"
+	.string "TEACHER: {PLAYER}, how do you like your\n"
 	.string "new room?\p"
 	.string "Good! Everything's put away neatly!\p"
 	.string "They finished moving everything in\n"
@@ -313,6 +313,4 @@ Common_Text_LookCloserAtMap: @ 81F8820
 	.string "HOENN region map.$"
 
 PlayersHouse_2F_Text_ItsAGameCube: @ 81F884F
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "It's a Nintendo GameCube.$"
